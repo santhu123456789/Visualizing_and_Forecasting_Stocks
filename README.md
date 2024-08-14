@@ -5,7 +5,7 @@ The website uses a comprehensive approach to deliver accurate stock price estima
 
 ## Installation
 
-Clone the project
+Clone the project 
 
 ```bash
   git clone https://github.com/Tarunpurohit146/Visualizing_and_Forecasting_Stocks.git
